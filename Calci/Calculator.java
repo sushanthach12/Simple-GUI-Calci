@@ -1,4 +1,4 @@
-package projects.Calci;
+package Calci;
 
 import javax.swing.*;
 import javax.swing.border.Border;
