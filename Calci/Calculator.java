@@ -12,6 +12,7 @@ public class Calculator implements ActionListener {
         JFrame frame =new JFrame("Calculator");
         JPanel panel = new JPanel();
 
+        // Creating a text field
         JTextArea textField = new JTextArea();
 
         JButton button1 = new JButton("1");
